@@ -143,7 +143,7 @@
 				TargetAttributes = {
 					36C0EC7A1EB00BFC0039B330 = {
 						CreatedOnToolsVersion = 8.3.1;
-						DevelopmentTeam = 5YJM63K9RT;
+						DevelopmentTeam = QK9743CSN9;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -153,6 +153,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -321,12 +322,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 5YJM63K9RT;
+				DEVELOPMENT_TEAM = QK9743CSN9;
 				INFOPLIST_FILE = TableViewWithMultipleCellTypes/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.stan.ostrovskiy.TableViewWithMultipleCellTypes;
+				PRODUCT_BUNDLE_IDENTIFIER = com.artep.TableViewWithMultipleCellTypes;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -334,12 +335,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 5YJM63K9RT;
+				DEVELOPMENT_TEAM = QK9743CSN9;
 				INFOPLIST_FILE = TableViewWithMultipleCellTypes/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.stan.ostrovskiy.TableViewWithMultipleCellTypes;
+				PRODUCT_BUNDLE_IDENTIFIER = com.artep.TableViewWithMultipleCellTypes;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
